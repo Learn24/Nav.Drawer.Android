@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <style parent="Theme.AppCompat.Light.DarkActionBar" name="MyTheme.Base">
+
+    <item name="windowNoTitle">true</item>
+
+    <item name="windowActionBar">false</item>
+
+    <item name="colorControlNormal">#0C92CF</item>
+
+    <item name="colorPrimary">#2196F3</item>
+
+    <item name="colorPrimaryDark">#1976D2</item>
+
+    <item name="colorAccent">#0C92CF</item>
+  </style>
+  <style parent="MyTheme.Base" name="MyTheme"> </style>
+</resources>
